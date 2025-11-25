@@ -1,0 +1,6 @@
+pandas
+boto3
+dotenv
+sqlalchemy
+cryptography
+mysql-connector-python
